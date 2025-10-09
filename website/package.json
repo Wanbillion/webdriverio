@@ -13,13 +13,13 @@
     "translate": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/core": "^3.9.0",
     "@docusaurus/module-type-aliases": "^3.5.2",
     "@docusaurus/plugin-client-redirects": "^3.5.2",
     "@docusaurus/plugin-google-analytics": "^3.5.2",
     "@docusaurus/plugin-ideal-image": "^3.5.2",
     "@docusaurus/plugin-pwa": "^3.5.2",
-    "@docusaurus/preset-classic": "^3.5.2",
+    "@docusaurus/preset-classic": "^3.9.0",
     "@docusaurus/remark-plugin-npm2yarn": "^3.5.2",
     "@docusaurus/theme-search-algolia": "^3.5.2",
     "@docusaurus/tsconfig": "^3.5.2",
