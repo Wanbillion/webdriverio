@@ -38,8 +38,8 @@
   "dependencies": {
     "@wdio/logger": "workspace:*",
     "@wdio/types": "workspace:*",
-    "express": "^4.14.0",
-    "morgan": "^1.7.0"
+    "express": "^4.22.0",
+    "morgan": "^1.10.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
