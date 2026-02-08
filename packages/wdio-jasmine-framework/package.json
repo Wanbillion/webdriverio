@@ -40,7 +40,7 @@
     "@wdio/types": "workspace:*",
     "@wdio/utils": "workspace:*",
     "expect-webdriverio": "^5.0.1",
-    "jasmine": "^5.0.0"
+    "jasmine": "^6.0.0"
   },
   "devDependencies": {
     "@types/jasmine": "5.1.5"
